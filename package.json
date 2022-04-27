@@ -1,7 +1,7 @@
 {
-  "name": "song-api",
+  "name": "tracks-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple api for tracks",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
